@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<span>
+<content>
+<!--
+	#platname：平台名称
+	#headers：接口公共header，以:连接
+	#globalparameter：接口公共参数
+	
+	#示例：
+	-->
+	<plat>
+		<platname></platname>
+		<headers></headers>
+		<globalparameter></globalparameter>
+	</plat>
+</content>
+</span>
